@@ -9,11 +9,3 @@ MDTextField:
     width: 350
     multiline: False 
 """
-
-list_helper = """
-Screen:
-    ScrollView:
-        MDList:
-            OneLineListItem:
-                text: 'Item 1'
-"""

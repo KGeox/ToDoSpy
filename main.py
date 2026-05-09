@@ -108,10 +108,7 @@ class TodoList(MDApp):
 
         return screen
 
-class Todolist_with_helper(MDApp):
-    def build(self):
-        screen = Builder.load_string(list_helper)
-        return screen
+
 
 
 
