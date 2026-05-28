@@ -118,7 +118,7 @@ class TodoSpy(MDApp):
         return LoginScreen()
 
 if __name__ == '__main__':
-    Todolist_with_helper().run()
+    TodoList().run()
 
 
 
